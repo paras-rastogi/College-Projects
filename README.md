@@ -1,5 +1,5 @@
 # Projects
-All the projects listed in RESUME
+Some of the projects listed in RESUME. All of the projects listed below were made by me in college.
 
 -------
 ## emart
